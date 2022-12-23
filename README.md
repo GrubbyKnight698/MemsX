@@ -7,3 +7,4 @@ Open the .RAR
 Run "MemsX.exe" Don't worry its safe just anti-viruses flag it as a virus because of the software type (Cheating software)
 Boom your done! Now find a script you'd like to execute but before executing make sure your in a roblox game and press "Attach"
 It will inject the .dll file into Roblox.
+(This project is dead as fuck now go away)
